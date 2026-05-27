@@ -2,7 +2,7 @@
 # e.g.:
 # sudo apt install <pkg>
 # Настройка версии прошивки
-sed -i 's/^FIRMWARE_ROOTFS_VER.*/FIRMWARE_ROOTFS_VER=3.9L/' padavan-ng/trunk/versions.inc
+sed -i 's/^FIRMWARE_ROOTFS_VER.*/FIRMWARE_ROOTFS_VER=4.0C/' padavan-ng/trunk/versions.inc
 sed -i 's/^FIRMWARE_BUILDS_VER.*/FIRMWARE_BUILDS_VER=106/' padavan-ng/trunk/versions.inc
 
 # Настройка версии Zapret
